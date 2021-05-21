@@ -1,0 +1,6 @@
+/*-- Use For Custom Styling --*/
+
+.list-group-item:hover {
+  background-color: #a332ff;
+  color: #fff;
+}
